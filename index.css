@@ -12,6 +12,7 @@
   font-size: 1em;
   height: 5vh;
   border-radius: 3em;
+  outline: none;
 }
 
 #dog-bar {
